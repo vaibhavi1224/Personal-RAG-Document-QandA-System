@@ -236,21 +236,6 @@ Contributions are welcome! Here's how to get started:
    ```
 7. **Open a Pull Request**
 
-### Development Setup
-
-```bash
-# Clone your fork
-[git clone https://github.com/yourusername/personal-rag-system.git](https://github.com/vaibhavi1224/Personal-RAG-Document-QandA-System.git)
-
-# Create virtual environment
-python -m venv venv
-source venv/bin/activate  # On Windows: venv\Scripts\activate
-
-# Install development dependencies
-pip install -r requirements.txt
-pip install -r requirements-dev.txt  # If you create this
-```
-
 ## 📝 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
